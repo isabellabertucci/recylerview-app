@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">recyclerView App</string>
+
+    <string-array name="programming_languages">
+        <item>Javascript</item>
+        <item>kotlin</item>
+        <item>python</item>
+        <item>Java</item>
+    </string-array>
+
+    <string-array name="description">
+        <item> This is Javascript description. </item>
+        <item> This is Kotlin description. </item>
+        <item> This is Python description. </item>
+        <item> This is Java description. </item>
+    </string-array>
+</resources>
